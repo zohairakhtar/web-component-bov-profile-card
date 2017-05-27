@@ -1,0 +1,46 @@
+
+#whole {
+		background-color: #F6F6F6;
+			width: 70%;
+				font-size: 16px;
+					padding: 5%;
+						border: 1px solid #999;
+					}
+
+					h2 {
+							color: #DCBC7D;
+								font-family: sans-serif;
+							}
+
+							h1 {
+									color: #DCBC7D;
+										font-weight: bold;
+											font-family: sans-serif;
+										}
+
+										#big {
+												float: left;
+													padding-right: 1%;
+												}
+												#small-2 {
+														padding-top: 1%;
+													}
+
+													#images {
+															max-width: 620px;
+																padding-bottom: 2%;
+															}
+															#dev {
+																	color: #DCBC7D;
+																}
+
+
+																#about {
+																		width: 67%;
+																			text-align: justify;
+																				font-family: sans-serif;
+																			}
+
+																			#red {
+																					color:#F08E97;
+																				}
